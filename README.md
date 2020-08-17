@@ -19,7 +19,7 @@ Entonces comenzaran los turnos de los judores
 
 ** Se puede ver como se va desarollando el juego**
 
-![vistadel juego](https://user-images.githubusercontent.com/43852960/90412416-b1acb200-e072-11ea-9073-976e6d7ee25c.PNG)
+![1](https://user-images.githubusercontent.com/43852960/90422377-65686e80-e080-11ea-87c7-164c0bae0dc0.jpg)
 
 **Por ultimo se puede ver el mensaje de alerta que muestra cuando alguno de los jugadores han ganado**
 
